@@ -9,3 +9,7 @@ A [Minimal Circle Problem](https://en.wikipedia.org/wiki/Smallest-circle_problem
 Set the points coordinates in the `POINTS` constant in `main.rs` using the `Point` struct.
 
 The absolute value of each coord shouldn't go past `WIN_SIZE/2` units. The center of the coordinate plane is in the center of the window.
+
+## Example
+
+![Example1](https://github.com/AJMC2002/black-circle/blob/master/example/example1_8p.png?raw=true)
