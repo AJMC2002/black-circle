@@ -8,6 +8,7 @@ struct Model {
 fn model(app: &App) -> Model {
     let _window = app
         .new_window()
+        .title("Black Circle")
         .size(WIN_SIZE, WIN_SIZE)
         .view(view)
         .build()
